@@ -1,0 +1,14 @@
+{
+  "name": "find-python-packages",
+  "version": "2019.5.17",
+  "description": "find python packages names",
+  "keywords": [
+    "python",
+    "packages"
+  ],
+  "homepage": "https://github.com/andrewp-as-is/find-python-packages",
+  "license": "Unlicense",
+  "bin": {
+    "find-python-packages": "./scripts/find-python-packages"
+  }
+}
